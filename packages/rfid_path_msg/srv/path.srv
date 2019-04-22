@@ -1,0 +1,4 @@
+bool requested
+---
+nav_msgs/Path path_planed
+bool success
